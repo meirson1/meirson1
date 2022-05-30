@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Noam</h1>
-<h3 align="center">A passionate Full-Stack developer from Israel</h3>
+<h3 align="center">A passionate Full-Stack developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meirson1" alt="meirson1" /></a> </p>
 
