@@ -3,7 +3,7 @@
 
 <!-- <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=meirson1" alt="meirson1" /> </p> -->
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning Microservices, NestJS, Kafka, Docker, Docker-compose, Kubernetes,  PostgreSQL
 
 - 👨‍💻 All of my projects are available at [https://github.com/meirson1?tab=repositories](https://github.com/meirson1?tab=repositories)
 
